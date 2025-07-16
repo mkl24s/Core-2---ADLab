@@ -58,7 +58,6 @@ Groups:
 | Group Creation in OU | ![](screenshots/groups-in-ou.png) |
 | Group Members Screenshot | ![](screenshots/group-members.png) |
 
-> 📝 Rename your screenshots to match these, or adjust the file paths above to match your actual image filenames.
 
 ---
 
