@@ -84,3 +84,6 @@ It builds foundational knowledge for help desk, SOC, and sysadmin roles.
 - Document labs for ticketing systems (e.g., Spiceworks or OTRS)
 - Start Security+ and AZ-900 labs with GitHub documentation
 - Build up a full SOC analyst portfolio over the next 90 days
+
+- > ❗ Note: This lab was originally intended to be completed using Spiceworks Help Desk Cloud.  
+> Due to platform issues, I pivoted to **Freshdesk** to ensure full functionality and documentation.
